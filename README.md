@@ -1,0 +1,2 @@
+# Disc_Sensoriamento_Remoto_Profitec
+Repositório da disciplina
