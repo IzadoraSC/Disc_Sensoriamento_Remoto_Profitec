@@ -18,6 +18,6 @@ Sala: Laboratório de Informática
 | 17/10/26 | Radiação Eletromagnética (REM): espectro eletromagnético, modelos de onda e quântico, leis da radiação (Planck, Wien, Stefan-Boltzmann) | [Acessar](https://canva.link/g2k93p3frc0otrf)    |
 | 17/10/26 | Prática 01: Interface QGIS e plugins essenciais para trabalhar com imagens orbitais                          | [Acessar](#)    |
 | 17/10/26 | Interação REM com superfícies terrestres: fatores de reflectância, curva espectral de diferentes alvos; Plataformas e Sistemas Sensores | [Acessar](https://canva.link/g2k93p3frc0otrf)    |
-| 17/10/26 | Prática 02: Acessando, Visualizando e Analisando Imagens Orbitais - QGIS                          | [Acessar](https://canva.link/71wsbub06vdbhl7)    |
-| 18/10/26 | Estudo Dirigido 01                                                                                            | [Acessar](#)    |
-| 18/10/26 | Prática 03: Base de Dados: produtos e imagens de satélites                           | [Acessar](#)    |
+| 18/10/26 | Estudo Dirigido 02                                                                                            | [Acessar](#)    |
+| 21/10/26 - Aula remota | Prática 02: Acessando, Visualizando e Analisando Imagens Orbitais - QGIS                          | [Acessar](https://canva.link/71wsbub06vdbhl7)    |
+| 21/10/26 - Aula remota | Prática 03: Base de Dados: produtos e imagens de satélites                           | [Acessar](#)    |
