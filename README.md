@@ -21,4 +21,4 @@ Sala: Laboratório de Informática
 | 18/10/26 | Estudo Dirigido 02                                                                                            | [Acessar](#)    |
 | 21/10/26 - Aula remota | Prática 02: Acessando, Visualizando e Analisando Imagens Orbitais - QGIS                          | [Acessar](https://canva.link/71wsbub06vdbhl7)    |
 | 21/10/26 - Aula remota | Prática 03: Base de Dados: produtos e imagens de satélites                           | [Acessar](#)    |
-| 21/10/26 - Reposição Prática 01 | Pesquisar: Software QGIS (desenvolvimento, histórico e evolução) e plugins essenciais para trabalhar com imagens orbitais no QGIS                          | **Entrega da pesquisa escrita: 28/11/2026** |
+| 21/10/26 - Reposição Prática 01 | Pesquisar: Software QGIS (desenvolvimento, histórico e evolução) e plugins essenciais para trabalhar com dados de sensoriamento remoto no QGIS                          | **Entrega da pesquisa escrita: 28/11/2026** |
